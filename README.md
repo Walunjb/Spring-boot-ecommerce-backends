@@ -4,7 +4,6 @@ Ecommerce store. This project mainly explains the various actions related to sho
 
 • Admin Module  
 •	Customer Module 
-
 •	Home Module 
 
 I have developed this Application in Java, Spring Boot, Servlets, Hibernate, and MySQL.  
